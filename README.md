@@ -1,4 +1,4 @@
-# led_patterns_arduion
+# led_patterns_arduino
 
 As an electronic student, arduino plays a key role in their lives..
 Arduino is an open-source electronics prototyping platform based on flexible, easy-to-use hardware and software.
